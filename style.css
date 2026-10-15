@@ -1,0 +1,65 @@
+window {
+    margin: 0px;
+    border: 2px solid #bd93f9;
+    background-color: #282a36;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#input {
+    margin: 5px;
+    color: #f8f8f2;
+    background-color: #44475a;
+    border: 2px solid #44475a;
+}
+
+#input:focus {
+    border-color: #bd93f9;
+    box-shadow: none;
+    outline: none;
+}
+
+#inner-box {
+    margin: 5px;
+    border: none;
+    background-color: #282a36;
+}
+
+#outer-box {
+    margin: 5px;
+    border: none;
+    background-color: #282a36;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #f8f8f2;
+} 
+
+#img {
+    min-width: 28px;
+    min-height: 28px;
+}
+
+#entry.activatable #text {
+    color: #282a36;
+    outline-style: none;
+}
+
+#entry > * {
+    color: #f8f8f2;
+}
+
+#entry:selected {
+    background-color: #44475a;
+}
+
+#entry:selected #text {
+    font-weight: bold;
+}

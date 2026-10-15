@@ -1,0 +1,6 @@
+no_actions=true
+width=600
+allow_images=true
+image_size=28
+parse_search=true
+dmenu-parse_action=true
