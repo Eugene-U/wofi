@@ -12,6 +12,14 @@ BLACKLIST=(
     "kitty.desktop"
     "nvidia-settings.desktop"
     "org.pulseaudio.pavucontrol.desktop"
+    "avahi-discover.desktop"
+    "fluid1.3.desktop"
+    "jconsole-java-openjdk.desktop"
+    "jshell-java-openjdk.desktop"
+    "org.moson.pacseek.desktop"
+    "com.sonicwall.NetExtender.desktop"
+    "vncviewer.desktop"
+    "vim.desktop"
 )
 # =======================================
 
