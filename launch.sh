@@ -20,6 +20,8 @@ BLACKLIST=(
     "com.sonicwall.NetExtender.desktop"
     "vncviewer.desktop"
     "vim.desktop"
+    "cmake-gui.desktop"
+    "NetExtender.desktop"
 )
 # =======================================
 
